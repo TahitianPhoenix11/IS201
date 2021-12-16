@@ -1,0 +1,76 @@
+/* Kimball Tracy (last edit: December 15, 2021) */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #575757;
+    background-color: rgba(0, 0, 0, 0);
+}
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: lightgrey;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* This is how you make comments */
+
+li {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.homebg {
+    background-image: url(../images/background.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.leftside {
+    left: 300px;
+    
+}
+
+.generalimg {
+    height: 300px;
+    width: 300px;
+    max-width: 30%;
+    
+}
+
+.mainimg {
+    height: 300px;
+    width: 300px;
+    max-width: 30%;
+    margin-bottom: 5px;
+    position: inherit;
+    
+}
+
+.imgcontainer {
+    margin-bottom: 25px;
+    text-align: center;
+    
+}
+
+.imgitem {
+    border-radius: 5px;
+    max-width: 300px;
+    max-height: 300px;
+    margin-bottom: 15px;
+}
